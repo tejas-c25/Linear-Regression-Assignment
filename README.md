@@ -1,3 +1,3 @@
-# Linear-Regression-Assignment
+# Linear-Regression
 
 
